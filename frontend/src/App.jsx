@@ -155,15 +155,31 @@ export default function App() {
           <PaisleyPattern />
           <div className="container mx-auto px-6 text-center relative z-10">
             <h3 style={{ fontFamily: "'Cinzel Decorative', cursive" }} className="text-4xl md:text-5xl font-bold text-red-900 mb-6">
-              Our Culinary Story
+              สูตรลับอินไม่เดีย
             </h3>
             <div className="max-w-3xl mx-auto text-lg md:text-xl text-stone-700 leading-relaxed space-y-6">
               <p>
-                Welcome to Sarawut Indian Food, where every dish is a celebration of India's rich culinary tapestry. Our journey began with a simple dream: to bring the authentic and diverse flavors of our homeland to your table.
+                ที่นี่ไม่ใช่แค่ร้านอาหาร…แต่มันคือสนามรบแห่งเครื่องเทศ! 🌶️
+กลิ่นนี่แรงพอจะทำให้หมาเพื่อนบ้านเห่าไปสามซอย 🐕💨
+รสชาติก็เผ็ดจนลืมแฟนเก่าได้ภายใน 5 วิ 💔➡️❤️
+
+ตำนานร้านเราเริ่มจากคำพูดเล่นๆ ของเชฟว่า
+“ถ้าแกงกะหรี่เราทำอร่อย…งั้นเลี้ยงทั้งหมู่บ้านไปเลยดิ๊!!”
+แล้วมันก็ไม่เล่นแล้ว เพราะทุกคนติดจนเลิกไม่ได้ 😭🍲
+
+สูตรอาหารเราไม่ธรรมดา 🧄
+ได้มาจากคุณแม่ 👩‍👦 คุณยาย 👵 คุณทวด 👵🏻👵🏽
+แถมมี “สูตรลับ” คือการกะเอาแบบสายตา แล้วภาวนาให้มันอร่อย 555+
               </p>
               <p>
-                We use age-old family recipes, the freshest ingredients, and a blend of hand-ground spices to create a dining experience that is both memorable and deeply satisfying. From the bustling streets of Delhi to the royal kitchens of Lucknow, our menu is a vibrant mosaic of tastes and traditions.
-              </p>
+เมนูเรานี่คือทัวร์อินเดียเวอร์ชันกินจริง
+ตั้งแต่ข้างถนนเดลี ที่กลิ่นแรงจนแท็กซี่ต้องจอดสูดดม 🚕
+ไปจนถึงครัวเจ้าเมืองลัคเนา ที่หรูหราจนคุณรู้สึกว่าตัวเองคือราชา 👑
+แต่ในความจริง…คุณอาจนั่งกินอยู่หน้าห้องเช่า 😂
+
+สรุปง่ายๆ ที่นี่ไม่ใช่ร้านอาหาร แต่คือ พอร์ทัลสู่จักรวาลเครื่องเทศ
+ใครกล้าเข้ามา ก็บอกได้เลยว่า…
+“เผ็ดนี้เพื่อชาติ แกงนี้เพื่อเรา” 🇮🇳🔥              </p>
             </div>
           </div>
         </section>
